@@ -1,1 +1,1 @@
-# malcolmx-vtol-controller
+# Quadra VTOL Control System
